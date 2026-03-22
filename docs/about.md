@@ -2,8 +2,8 @@
 
 
 <figure>
-<img src = "https://jor-donegal.github.io/MSc-HCT26/images/jor-edu326.jpg" width="200" height="200">
-<figcaption>Nuuc</figcaption>
+<img src = "https://jor-donegal.github.io/PGDip-HCT26/images/jor-edu326.jpg" width="200" height="200">
+<figcaption></figcaption>
 </figure>
 
 This GIT account hosts my teaching notes. 
