@@ -8,8 +8,8 @@ Colors for HCT will use green
 2. About OK
 3. Introduction OK
 ### Week 1. 
-Fundamentals of cloud computing is 2024 version from GITBOOK
-__CPU hardware needs work, GPU__
+Fundamentals of cloud computing rewritten MAR26
+CPU hardware is 2024 version from GITBOOK needs work, GPU
 ### Week 2
 Dig into the hardware is 2024 version from GITBOOK
 Processors is 2024 version from GITBOOK
