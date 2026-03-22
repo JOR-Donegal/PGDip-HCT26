@@ -3,7 +3,7 @@
 
 <figure>
 <img src = "https://jor-donegal.github.io/MSc-HCT26/images/jor-edu.jpg" width="200" height="200">
-<figcaption>Yup, that is Mount St Helens and Coldwater lake.</figcaption>
+<figcaption>Nuuc</figcaption>
 </figure>
 
 This GIT account hosts my teaching notes. 
