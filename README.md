@@ -1,5 +1,5 @@
-# HCT
-Landing page for hybrid cloud material, to be taught as an on campus module. This has a slightly different content from the e-delivery module.
+# HCT - EDelivery
+Landing page for hybrid cloud material, to be taught as an e-delivery module. This has a slightly different content from the on campus module.
 
 Colors for HCT will use green
 
