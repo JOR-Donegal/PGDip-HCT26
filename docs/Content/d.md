@@ -7,7 +7,7 @@ In practical exercises this week, build the core services for a basic SME site u
 1. Read through my theory material on [Active Directory](https://johnoraw.gitbook.io/active-directory-1/)
 
 ## Practical Work
-2. Build Authentication, Authorization and Accounting (AAA) infrastructure for an SME site, using scripts and configuration files where posible.
+2. Build Authentication, Authorization and Accounting (AAA) infrastructure for an SME site, the walkthrough at this [link](https://jor-donegal.github.io/AAA-SME26/) was updated to Windows Server 2025.
 
 ## Later study
 As public cloud emerged and became a viable platform for core services, many of us moved one of our domain controllers to public cloud. From a contingency and disaster recovery perspective, this was perfect; assuming you were confident about security. 

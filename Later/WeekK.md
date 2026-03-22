@@ -1,2 +1,0 @@
-# Week 11
-This is the last week of examinable content in this module. I am not a fan or writing course notes for cloud services, they change so rapidly and they (mostly!) include thier own tutorial notes. However, I have created AWS student accounts for you and registered you on at least one learning module. This week I am going to get you to cover the most common services we all use in AWS.
