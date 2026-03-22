@@ -7,5 +7,7 @@ So for this week, just some (light!) reading.
 
 1. This week I need you to read through some [fundamentals of cloud computing](https://jor-donegal.github.io/FundamentalsCloud26/), to deobfuscate and define some of the terminology we are going to use.
 
-2. You may not have covered Computer Architecture at undergraduate level. Read through these basic notes on [CPU hardware](https://jor-donegal.github.io/CPU101/). If you have covered Computer Architecture previously, speed read this as a quick revision.
+2. You may not have covered Computer Architecture at undergraduate level. Students may not be from a traditional Computer Science background and each year, some of these students get confused not by the complex aspects of the module, but by the basics.
+
+Read through these notes on [CPU hardware](https://jor-donegal.github.io/CPU101/). If you have covered Computer Architecture previously, speed read this as a quick revision. If you are not from a Computer Science background, this will be heavier going.
  
