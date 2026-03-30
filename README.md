@@ -9,6 +9,17 @@ Colors for HCT will use green
 3. Introduction OK
 ### Week 1. 
 Fundamentals of cloud computing rewritten MAR26
+### Week 2
+Availability theory, 2025 version from GITBOOK
+
+
+
+
+
+
+
+# Other Module
+
 CPU hardware is 2024 version from GITBOOK needs work, GPU
 ### Week 2
 Dig into the hardware is 2024 version from GITBOOK
