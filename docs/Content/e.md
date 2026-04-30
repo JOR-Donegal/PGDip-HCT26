@@ -6,11 +6,11 @@ In practical exercises this week, build the core services for a basic SME site u
 
 ## Study
 
-1. Read through my theory material on [Active Directory](https://johnoraw.gitbook.io/active-directory-1/)
+Read through my theory material on [Active Directory](https://johnoraw.gitbook.io/active-directory-1/)
 
 ## Practical Work
 
-2. Build Authentication, Authorization and Accounting (AAA) infrastructure for an SME site, the walkthrough at this [link](https://jor-donegal.github.io/AAA-SME26/) was updated to Windows Server 2025.
+Build Authentication, Authorization and Accounting (AAA) infrastructure for an SME site, the walkthrough at this [link](https://jor-donegal.github.io/AAA-SME26/) was updated to Windows Server 2025.
 
 ## Later study
 
