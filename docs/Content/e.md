@@ -6,7 +6,9 @@ In practical exercises this week, build the core services for a basic SME site u
 
 ## Study
 
-Read through my theory material on [Active Directory](https://johnoraw.gitbook.io/active-directory-1/)
+Read through my theory material on [Active Directory](https://johnoraw.gitbook.io/active-directory-1/).
+
+I also need you to read some theory material on [scaling up AD](https://jor-donegal.github.io/EnterpriseAD26/)
 
 ## Practical Work
 
