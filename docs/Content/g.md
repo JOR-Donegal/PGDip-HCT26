@@ -1,6 +1,6 @@
 # Week 7
 
-You already have a good background in hypervisors and the associated terminology, and previously, we dug into Hyper-V This week we are going to look deeper into Hyper-V, clusters and shared storage.
+You already have a good background in hypervisors and the associated terminology, and previously, we dug into Hyper-V. This week we are going to look deeper into Hyper-V, clusters and shared storage.
 
 ## Study
 
