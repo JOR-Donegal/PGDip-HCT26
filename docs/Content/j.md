@@ -9,6 +9,8 @@ I could use Proxmox to host these containers and have the full management front 
 
 Docker is probably the most popular container environment, it is based on the idea that each container is based on a reusable image and an application is made up of many containers, where each is responsible for a single component. To allow for some standardization, the [Open Container Initiative was established](https://opencontainers.org/).
 
+To scale up, we use an orchestration system like [Kubernetes](https://kubernetes.io/). It would be great if we could cover this, but there is only so much I can pack into this module! 
+
 ## Practical Work
 
 Practice exercises in [Docker](https://jor-donegal.github.io/Docker26/). These can be carried out on any Linux instance.

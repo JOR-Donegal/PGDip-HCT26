@@ -1,4 +1,4 @@
-# Bonus material
+# VMWare
 
 In the early part of our courses, desktop virtualization is done using
 
