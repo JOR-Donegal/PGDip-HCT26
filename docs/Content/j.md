@@ -8,5 +8,5 @@ First, read a little background to [containers](https://johnoraw.gitbook.io/cont
 
 ## Practical Work
 
-Practice exercises in [Docker](https://johnoraw.gitbook.io/docker-1). These can be carried out on any Linux instance.
+Practice exercises in [Docker](https://jor-donegal.github.io/Docker26/). These can be carried out on any Linux instance.
 
