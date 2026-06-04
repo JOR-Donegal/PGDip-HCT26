@@ -10,9 +10,9 @@ We then looked at SME and data centre implementations of
 - Microsoft Hyper-V
 - Promxox
 
-I removed VMWare from the core material after the Broadcom buyout. All academic programmes ended. But it is still an important platform.
+I removed VMWare from the core material after the Broadcom buyout, all academic programmes ended. But it is still an important platform.
 
-In these notes, I am looking at VMWare ESXi technology for enterprise data centres. Note that since the Broadcom purchase of VMWare, many things have changed and you cannot rely on my notes only, to get operational! This was core material, I now add it on as optional reading. This work is not examinable.
+In these notes, I am looking at VMWare ESXi technology for enterprise data centres. Note that since the buyout, many things have changed and you cannot rely on my notes only, to get operational! This was core material, I now add it on as optional reading. This work is not examinable.
 
 ## Study
 
