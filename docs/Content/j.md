@@ -4,7 +4,10 @@ Containers revolutionized software development by providing a lightweight, effic
 
 ## Study
 
-First, read a little background to [containers](https://johnoraw.gitbook.io/containers-1).
+You can create containers with nothing more than a Linux instance. Linux Containers (LXC) allow you to run a full instance of the underlying system as a container. Do some [background reading](https://linuxcontainers.org/) and when you have time, play with the technology.
+I could use Proxmox to host these containers and have the full management front end to work with.
+
+Docker is probably the most popular container environment, it is based on the idea that each container is based on a reusable image and an application is made up of many containers, where each is responsible for a single component. To allow for some standardization, the [Open Container Initiative was established](https://opencontainers.org/).
 
 ## Practical Work
 
