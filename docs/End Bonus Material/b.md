@@ -1,10 +1,21 @@
 # High Performance Computing
 
-Since the syllabus was last updated, artificial intelligence and machine learning have become a huge component of modern data centres. I want to discuss briefly how we approach building HPC clusters. This is not intended to be exhaustive but describes the kind of work we've done in this area in the past five years using NVidia GPUs. 
-Many years ago, we played with [Beowulf Clusters]( https://beowulf.org/overview/faq.html) and many of the concepts are still valid. 
-A starting point should be; what is it you want to do?
+Since the syllabus was last updated, artificial intelligence and machine learning have become a huge component of modern data centres. I want to discuss briefly how we approach building HPC clusters. This is not intended to be exhaustive but describes the kind of work we've done in this area in the past five years using NVidia GPUs. Many years ago, we played with [Beowulf Clusters]( https://beowulf.org/overview/faq.html) and many of the concepts are still valid.
+
+## Facilities
+You already know from discussions in the popular press that artificial intelligent workloads take a lot of power! Just as a rough guide, I have one cluster with three fairly beefy servers! Lots of DRAM, lots of CPU, and four N100 GPUs. When operating fully under load, this cluster uses c. 4kW. This is probably the smallest HPC cluster we will ever build!
+Remember our basic rules update to centre design.
+
+1. I'm using two 6 kW UPS on two separate power lines, a typical A+B power supply arrangement.
+2. I need two 32A single phase sockets to power these UPS.
+3. My peak load to the UPS will only ever be (6000/230) c. 26A overall but the equipment load will be 17A.
+4. I will need air conditioning to allow for c. 4kW plus headroom.
+
+All the above are ballpark estimates and it is important to have headroom. I will provision any system to 60% only if possible, this may entail customer debate! I also use simplest cases here. In earlier notes I discuss power factor, I only buy equipment with PF=1.
 
 ## Overview
+
+A starting point should be; what is it you want to do?
 
 Nvidia natively uses Cuda and C/C++. This may be inaccessible to anyone who is not a computer scientist. 
 In scientific computing, most of us will use [Conda]( https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html) to write code in Python. There is an expectation that nobody will use elevated privileges normal work. We recommend users create virtual environments in Conda to allow them to have full control of dependencies.
