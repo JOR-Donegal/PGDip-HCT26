@@ -16,7 +16,7 @@ The major areas covered in weeks 2-11 are
 
 I reserve week 12/13 for clean up at the end...or run over time if we need it.
 
-This module is intended for students who already have some background in scripting and automation, networking and operating systems. It is assumed you already have an undergraduate degree in computing or a similar discipline. The material is thus pitched at people who can self-learn. The content and structure of this module was created c. 2015 and last revised in 2022. It is updated annually.
+This module is intended for students who already have some background in scripting and automation, networking and operating systems, ideally from previous modules on the same programme. It is assumed you already have an undergraduate degree in computing or a similar discipline. The material is thus pitched at people who can self-learn. The structure of this module was created c. 2015 and last revised in 2022. The content is updated annually.
 
 This version of the module is intended for e-delivery.
 
